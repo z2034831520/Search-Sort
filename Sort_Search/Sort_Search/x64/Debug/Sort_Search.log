@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(175,12): warning C4101: “key”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(443,89): warning C4101: “merge_time”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(443,55): warning C4101: “quick_time”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(443,79): warning C4101: “heap_time”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(443,42): warning C4101: “insert_time”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(443,67): warning C4101: “shell_time”: 未引用的局部变量
+E:\Visual Stdio 2022 Projects\Sort_Search\main.cpp(165,1): warning C4715: “FindHalf”: 不是所有的控件路径都返回值
+  Sort_Search.vcxproj -> E:\Visual Stdio 2022 Projects\Sort_Search\x64\Debug\Sort_Search.exe
